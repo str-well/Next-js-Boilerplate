@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Meu Terreiro</string>
+    <string name="title_activity_main">Meu Terreiro</string>
+    <string name="package_name">com.terreiro.app</string>
+    <string name="custom_url_scheme">com.terreiro.app</string>
+</resources>
